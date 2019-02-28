@@ -11,9 +11,9 @@ html {
   background-color: transparent;
 }
 
-.btm-light {
+.btn-light {
   background-color: limegreen;
-  border color: limegreen;
+  border-color: limegreen;
 }
 
 .btn:hover {
